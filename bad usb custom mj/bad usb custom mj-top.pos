@@ -1,0 +1,17 @@
+### Footprint positions - created on 2025-04-21T19:13:01+0200 ###
+### Printed by KiCad version 9.0.1
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val                  Package                                       PosX       PosY       Rot  Side
+C10       CL10A105KA8NNNC      CAP_CL10_SAM                              231.3278   -91.5000  180.0000  top
+C11       CL10A106MP8NNNC      CAP_CL10_SAM                              231.3278   -89.0000    0.0000  top
+D1        LHN974_RED_LED_1206  LEDC3216X120N                             206.0000   -87.5000  -90.0000  top
+J2        USB_A                USB_A_CNCTech_1001-011-01101_Horizontal   246.0000   -88.0000    0.0000  top
+R1        RC0402FR-07330RL     RESC1005X40N                              206.0000   -83.5100   90.0000  top
+R2        RC0402FR-0710KL      RC0402N_YAG                               231.9000   -85.4412   90.0000  top
+S1        USLPT2819DT2TR       SW_USLPT2819DT2TR                         227.7875   -90.6200    0.0000  top
+SW1       TDA04H0SB1           TDA04H0SB1_CNK                            212.0950   -86.2154  -90.0000  top
+SW2       TDA04H0SB1           TDA04H0SB1_CNK                            219.5950   -85.7846  -90.0000  top
+SW3       TDA01H0SB1R          SWITCH_0SB1R                              225.0000   -86.0000  -90.0000  top
+U2        AP2112K-3.3          SOT-23-5                                  229.1375   -85.9500  180.0000  top
+## End

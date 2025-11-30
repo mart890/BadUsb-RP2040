@@ -1,0 +1,15 @@
+### Footprint positions - created on 2025-04-21T19:13:01+0200 ###
+### Printed by KiCad version 9.0.1
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val                 Package                                   PosX       PosY       Rot  Side
+C1        CL10C220JB8NNNC     CAP_CL10_SAM                          218.8000   -85.9278  -90.0000  bottom
+C2        CL10C220JB8NNNC     CAP_CL10_SAM                          213.8000   -85.7722   90.0000  bottom
+C9        CL10B104KO8NNNC     CAP_CL10_SAM                          209.3722   -91.7000  180.0000  bottom
+C12       GRM155R71C104KA88D  CAP_GRM_155_MUR                       207.2000   -91.3207  -90.0000  bottom
+C13       GRM155R71C104KA88D  CAP_GRM_155_MUR                       206.0000   -91.2000  -90.0000  bottom
+C14       GRM155R61A105KE15D  CAP_chip2_1X0p5_MUR                   204.7698   -91.2278  -90.0000  bottom
+CR1       7M-12.000MAAJ-T     CRYSTAL_TXC_7M                        216.1729   -85.6697  180.0000  bottom
+U1        RP2040              QFN-56-1EP_7x7mm_P0.4mm_EP3.2x3.2mm   230.0625   -87.1000    0.0000  bottom
+U3        W25Q128JVSIQ        SOIC127P790X216-8N                    206.0350   -85.3625  -90.0000  bottom
+## End
